@@ -16,3 +16,5 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 9. Hockey
 10. Golf
 11. Swimming
+12. Rugby
+
