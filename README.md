@@ -8,11 +8,19 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 1.panda
 
 2.deer
+
 3.armadillo
+
 4.cat
+
 5.tiger
+
 6.bear
+
 7.lizard
+
 8.fox
+
 9.chameleon
+
 10.sparrow
