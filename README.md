@@ -6,7 +6,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 # Top 10 Sports
 1. Futbol (Soccer)
-2. Volleyball
+2. badminton
 3. Formula 1
 4. Basketball
 5. American Football
